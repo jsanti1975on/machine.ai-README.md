@@ -17,6 +17,8 @@ clean, portable, and realistic for enterprise documentation.
 
 ---
 
+![machine.ai Domain Diagram](images/machine_ai_domain.svg)
+
 ## 🖧 Subnet Plan
 
 | Subnet         | Purpose             | Gateway         |
